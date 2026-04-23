@@ -1,0 +1,8 @@
+{
+  "errors": [
+    {
+      "status": 404,
+      "message": "Item libs-releases-local:org/gradle/gradle-wrapper/8.2 does not exist"
+    }
+  ]
+}
